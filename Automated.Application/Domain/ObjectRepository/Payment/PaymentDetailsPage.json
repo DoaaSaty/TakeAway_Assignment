@@ -1,0 +1,50 @@
+[
+  {
+    "KeyName": "idealMethodBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//label[text()='iDEAL']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "cashMethodBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//input[@id='iipaymentmethod0']/../..",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "addressText",
+    "LocatorType": "Id",
+    "LocatorValue": "iaddress",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "townText",
+    "LocatorType": "Id",
+    "LocatorValue": "itown",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "surNameText",
+    "LocatorType": "Id",
+    "LocatorValue": "isurname",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "emailAddressText",
+    "LocatorType": "Id",
+    "LocatorValue": "iemail",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "phoneNumberText",
+    "LocatorType": "Id",
+    "LocatorValue": "iphonenumber",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "buyNowBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//div[@class='checkout-orderbutton-btn']/input",
+    "IsLazyLoaded": "true"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "KeyName": "resturantSearchBox",
+    "LocatorType": "Id",
+    "LocatorValue": "irestaurantsearchstring-middle",
+    "IsLazyLoaded": "true"
+  },
+  {
+     "KeyName": "resturantList",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[@class='restaurant']/div[2]/h2/a",
+    "IsLazyLoaded": "true"
+    
+  }
+]

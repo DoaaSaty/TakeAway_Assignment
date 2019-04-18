@@ -1,0 +1,14 @@
+[
+  {
+    "KeyName": "orderId",
+    "LocatorType": "XPath",
+    "LocatorValue": "//p[@class='order-reference-text']/strong",
+    "IsLazyLoaded": "true"
+  },
+ {
+    "KeyName": "resturantName",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "h2[class='ordersummary__title']",
+    "IsLazyLoaded": "true"
+  }
+]

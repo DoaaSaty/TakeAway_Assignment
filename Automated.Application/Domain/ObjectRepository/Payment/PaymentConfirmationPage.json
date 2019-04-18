@@ -1,0 +1,28 @@
+[
+  {
+    "KeyName": "cancelBtn",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "span[data-translate='Button-Cancel']",
+    "IsLazyLoaded": "true"
+  },
+
+  {
+    "KeyName": "yesBtn",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "button[class='pull-right btn btn-primary ng-scope']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "saveCookiesBtn",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "a[class='mlf-js-cookie-accept mlf-button mlf-button-action']",
+    "IsLazyLoaded": "true"
+  },
+   {
+     "KeyName": "tryAgainBtn",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "a[class='button-retry is-failure']",
+    "IsLazyLoaded": "true"
+  }
+ 
+]

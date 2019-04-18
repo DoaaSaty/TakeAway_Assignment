@@ -1,0 +1,59 @@
+[
+  {
+    "KeyName": "mealNameList",
+    "LocatorType": "ClassName",
+    "LocatorValue": "meal__description-texts",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "mealsList",
+    "LocatorType": "ClassName",
+    "LocatorValue": "meal-name",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "addOneBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[contains(@onclick,'pmButtonAddOne')]",
+    "IsLazyLoaded": "true"
+
+  },
+  {
+    "KeyName": "drinkDdl",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[contains(@id,'isidedishpulldown')]",
+    "IsLazyLoaded": "true"
+
+  },
+  {
+    "KeyName": "addMainDishBtn",
+    "LocatorType": "ClassName",
+    "LocatorValue": " button_add_value",
+    "IsLazyLoaded": "true"
+
+  },
+  {
+    "KeyName": "basketBtn",
+    "LocatorType": "ClassName",
+    "LocatorValue": "btn-cart-icon",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "commentBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//div[@class='cart-meal-edit-buttons']/div[3]",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "commentText",
+    "LocatorType": "ClassName",
+    "LocatorValue": "cart-meal-textarea",
+    "IsLazyLoaded": "true"
+  },
+   {
+     "KeyName": "OrderBtn",
+    "LocatorType": "ClassName",
+    "LocatorValue": "cartbutton-button",
+    "IsLazyLoaded": "true"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "KeyName": "searchBox",
+    "LocatorType": "Id",
+    "LocatorValue": "imysearchstring",
+    "IsLazyLoaded": "true"
+  },
+  {
+     "KeyName": "searchbBtn",
+    "LocatorType": "Id",
+    "LocatorValue": "submit_deliveryarea",
+    "IsLazyLoaded": "true"
+    
+  }
+]
